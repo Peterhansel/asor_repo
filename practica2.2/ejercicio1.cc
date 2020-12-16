@@ -1,0 +1,9 @@
+//-a = ignora todas las entradas que empiecen con .
+//-l = usa el formato de lista larga
+//-d = muestra solo los directorios
+//-h = combinado con -l muestra los tamaños en un formato de facil lectura
+//-i = muestra el numero de inodo de cada archivo
+//-R = lista los subdirectorios recursivamente
+//-1 = lista un archivo por linea
+//-F = añade un indicador a cada entrada
+//--color = le da color a la salida
